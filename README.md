@@ -25,8 +25,13 @@ This Python script, when it is run, asks the user for:
 Then, Seine creates the requested number of *Seine* lookalikes, and saves them as PNG files in the directory it was run from.
 Seine's output maintains Kelly's painting's aspect ratio. Addditionally, y editing some of the code, you can change the color of the background or the rectangles.
 
+Here are three example renderings:
+
+#### 1
 ![](images/1.png)
+
+#### 2
 ![](images/2.png)
+
+#### 3
 ![](images/3.png)
-![](images/4.png)
-![](images/5.png)
