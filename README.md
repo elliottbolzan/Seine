@@ -1,6 +1,6 @@
 # Seine
 
-A creator of alternative renderings of Ellsworth Kelly's 1951 painting, *Seine*. The project is built in Python, and uses the Image module from the Python Imaging Library (PIL.)
+Seine creates alternative renderings of Ellsworth Kelly's 1951 painting, *Seine*. The project is built in Python, and uses the Image module from the Python Imaging Library (PIL.)
 
 ## Background
 
@@ -15,3 +15,18 @@ In creating this piece, Kelly both represented the Seine, a Parisian river, and 
 Today, *Seine* is held at the [Philadelphia Museum of Art](http://www.philamuseum.org/collections/permanent/295031.html).
 
 ![](original.jpg)
+
+## What Seine Does
+
+This Python script, when it is run, asks the user for:
+* The number of images to create (the default is 1.)
+* The width of the output image in pixels (the default is 3000 pixels.)
+
+Then, Seine creates the requested number of *Seine* lookalikes, and saves them as PNG files in the directory it was run from.
+Seine's output maintains Kelly's painting's aspect ratio. Addditionally, y editing some of the code, you can change the color of the background or the rectangles.
+
+![](images/1.png)
+![](images/2.png)
+![](images/3.png)
+![](images/4.png)
+![](images/5.png)
