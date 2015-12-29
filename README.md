@@ -23,7 +23,7 @@ This Python script, when it is run, asks the user for:
 * The width of the output image in pixels (the default is 3000 pixels.)
 
 Then, Seine creates the requested number of *Seine* lookalikes, and saves them as PNG files in the directory it was run from.
-Seine's output maintains Kelly's painting's aspect ratio. Addditionally, y editing some of the code, you can change the color of the background or the rectangles.
+When it comes to aspect ratio, Seine's output is relatively similar to Kelly's painting.
 
 Here are three example renderings:
 
