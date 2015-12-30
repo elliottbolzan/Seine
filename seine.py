@@ -10,8 +10,8 @@ realWidth = 115
 
 factor = width / xScale
 
-backgroundColor = "beige"
-pixelColor = (20, 20, 20)
+backgroundColor = (220, 205, 170)
+pixelColor = (15, 15, 15)
 
 for imitation in xrange(1, n + 1):
 
